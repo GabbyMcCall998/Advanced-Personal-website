@@ -1,2 +1,2 @@
-# Advanced-Personal-website
-This is a website I built using advanced HTML and Intermediate CSS.
+# Personal-website
+This is a portfolio website I built using advanced HTML,Intermediate CSS,bootstrap and flask framework.
