@@ -1,0 +1,23 @@
+{
+  "name": "advanced-personal-website",
+  "version": "1.0.0",
+  "description": "This is my personal cv website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabbyMcCall998/Advanced-Personal-website.git"
+  },
+  "author": "Gabriel Andoh Acquah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabbyMcCall998/Advanced-Personal-website/issues"
+  },
+  "homepage": "https://github.com/GabbyMcCall998/Advanced-Personal-website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

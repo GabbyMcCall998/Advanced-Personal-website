@@ -1,0 +1,273 @@
+.body{
+    color:#40514E;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+    }
+ 
+
+
+h1{
+    font-family: 'Sacramento', cursive;
+    margin-top:30px;
+    font-size: 3.25rem;
+    color:#66BFBF;
+    padding-bottom: 10px;
+}
+
+
+
+h2{
+    
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+    font-size: 2.0rem;
+    color:#66BFBF;  
+    margin-bottom: 15px; 
+    padding-bottom: 10px;
+}
+
+
+
+.div1{
+    background-color:rgb(7, 59, 78);
+    margin-top:0px;
+    margin-bottom:0px;
+    height: 50%;
+}
+
+
+
+.Bottom-cloud{
+    position: relative;
+    right:150px;
+    border-radius: 90px;
+    width: 90px;
+    margin-top: 10px;
+    
+}
+
+
+
+.Top-cloud{
+    position:relative;
+    left: 150px;
+    border-radius: 90px;
+    width: 90px;
+    margin-bottom:10px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.Paragraph0{
+    
+    font-size: 19px;
+    width: 30%;
+    margin: auto;
+}
+
+.Paragraph00{
+    font-size: 19px;
+    width: 40%;
+    margin: 40px auto 60px auto;
+
+}
+
+
+.Paragraph1{
+    
+    font-size: 19px;
+}
+
+.ruler{
+    height:2px;
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+    margin: 100px auto 100px auto;
+}
+
+.div2{
+    position: relative;   
+}
+
+
+.profile{
+    height: 12%;
+    width:12%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-radius: 70px;
+}
+
+
+
+.Soccer-image{
+    width: 25%;  
+    float:right; 
+    margin-left:20px;
+    border-radius: 200px;
+}
+
+.Skills-image{
+    width: 25%;  
+    float: left; 
+    margin-right:20px;
+}
+
+
+.div5{
+    margin-top: 0px;
+    background-color: white;
+}
+
+
+.div3{
+    background-color: white;
+    margin-bottom: 0px;
+}
+
+.div2{
+    margin: 100px 0;
+}
+
+
+.linkedin,
+.contact,
+.facebook,
+.github{
+ color: black;
+}
+
+
+
+.contact:hover{
+    opacity: 0.8;
+    color:white;
+    transition: 0.25s;
+}
+
+
+
+.linkedin:hover{
+    opacity: 0.8;
+    color:rgb(203, 236, 13);
+    transition: 0.25s;
+}
+
+
+
+.facebook:hover{
+    opacity: 0.8;
+    color:rgb(252, 12, 64);
+    transition: 0.25s;
+}
+
+
+
+.github:hover{
+    opacity: 0.8;
+    color:rgb(9, 233, 9);
+    transition: 0.25s;
+}
+
+
+
+.bady{
+    background-color:rgb(7, 59, 78);
+}
+
+
+.Last{
+    background-color: #66BFBF;
+    margin: 100px auto 100px auto;
+    padding: 50px 0 20px;
+}
+
+
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 30px 20px ;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+
+.ruler,
+.ruler{
+    height:2px;
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+}
+
+
+
+.image:hover{
+    opacity: 0.8;
+}
+
+
+
+.image{ 
+    width: 25%;
+}
+
+
+
+.header1,
+.header3{
+    color:#66BFBF ;
+}
+
+
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
