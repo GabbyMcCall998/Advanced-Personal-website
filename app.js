@@ -7,7 +7,7 @@ app.use(express.static('public'));
 
 
 app.get("/",function(req,res){
-res.sendFile(__dirname + "/index - Copy.html");
+res.sendFile(__dirname+ "/index - Copy.html");
 });
 
 
